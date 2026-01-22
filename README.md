@@ -121,12 +121,13 @@ This project involves:
 ## 🔧 Current Status
 
 - [x] Project planning
-- [ ] Schematic design
-- [ ] PCB layout
+- [x] Schematic design
+- [x] Footprint assignment
+- [x] PCB layout
+- [x] PCB routing
 - [ ] Design review
 - [ ] Prototype order
 - [ ] Testing & validation
-- [ ] Final revision
 
 ## 📝 License
 
